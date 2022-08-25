@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "KitKat",
+      "price": 121
+    },
+    {
+      "id": 2,
+      "name": "Milk",
+      "price": 122
+    },
+    {
+      "id": "3",
+      "name": "Snacks",
+      "price": "20"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Nitesh",
+      "price": 121
+    },
+    {
+      "id": 2,
+      "name": "Suman",
+      "price": 122
+    },
+    {
+      "id": "3",
+      "name": "Sonia",
+      "price": "20"
+    }
+  ]
+}
